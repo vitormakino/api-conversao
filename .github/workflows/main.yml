@@ -41,4 +41,4 @@ jobs:
           push: true
           tags: |
             vitormakino/api-conversao:latest
-            vitormakino/api-conversao:v${{ github.run_number}
+            vitormakino/api-conversao:v${{ github.run_number}}
